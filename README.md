@@ -3,7 +3,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="google-site-verification: googlee9e5cbe581716d39.html" />
 <title>Everything is Exercise</title>
-</head>
     <style>
         body{
             background-color: rgb(203, 245, 245);
